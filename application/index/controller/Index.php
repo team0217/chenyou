@@ -3,8 +3,9 @@ namespace app\index\controller;
 
 class Index
 {
+
     public function index()
     {
-        echo "eee";
+        dump("ddd");
     }
 }
